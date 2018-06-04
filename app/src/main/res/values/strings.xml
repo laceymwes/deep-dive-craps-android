@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Craps</string>
+  <string name="play_button">Roll \'dem Bones!</string>
+  <!-- % = placeholder. 1$ = explicit order. s/d/f.. = format (String, float, decimal, etc.) -->
+  <string name="status_pattern">First: %1$s; Last: %2$s; Result after %3$d; rolls: %4$s.  </string>
+  <string name="simple_status_pattern">First: %1$s; Result : %2$s.</string>
+</resources>
